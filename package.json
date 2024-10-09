@@ -1,0 +1,23 @@
+{
+  "name": "programacao_server_side_fashionboutique_basic_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeVogel/programacao_server_side_fashionboutique_basic_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeVogel/programacao_server_side_fashionboutique_basic_express/issues"
+  },
+  "homepage": "https://github.com/JoeVogel/programacao_server_side_fashionboutique_basic_express#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
